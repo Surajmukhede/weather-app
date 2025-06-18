@@ -1,5 +1,0 @@
-region           = "ap-northeast-1"
-bucket_name      = "weather-app-static-site-demo"
-lambda_name      = "weatherAPIHandler"
-lambda_zip_path  = "lambda/weather-api.zip"
-weather_api_key = "d65c01cc475b1d6d9d5547f4bfeb4028"
