@@ -1,0 +1,19 @@
+# Terraform state and plan files (these contain sensitive data)
+terraform.tfstate
+terraform.tfstate.*
+*.tfplan
+
+# Terraform variables file (contains your API key)
+terraform.tfvars
+
+# Terraform hidden directory
+.terraform/
+
+# Backup files
+*.backup
+crash.log
+
+# OS or IDE specific files
+.DS_Store
+.idea/
+.vscode/
